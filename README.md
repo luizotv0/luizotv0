@@ -1,16 +1,11 @@
-## Hi there 👋
+# Sobre mim #
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando meus estudos em programação.  
+Sou apaixonado por tecnologia e estou em constante aprendizado para poder me especializar na área, aqui vou registrar meus aprendizados, e minha evolução ao longo do curso.
 
-<!--
-**luizotv0/luizotv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# O que estou aprendendo #  
+Lógica de programação  
+Java (iniciante)  
+HTML e CSS (iniciante)  
+Git e GitHub  
+# Objetivo #
+No momento, busco evoluir na área de tecnologia, criar projetos próprios, e uma oportunidade de estágio que me auxilie a evoluir profissionalmente e a construir uma carreira sólida como desenvolvedor e contribuir de forma ativa na criação de projetos e sistemas.  
