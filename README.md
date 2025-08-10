@@ -10,6 +10,5 @@ Git e GitHub
 # Objetivo #
 No momento, busco evoluir na área de tecnologia, criar projetos próprios, e uma oportunidade de estágio que me auxilie a evoluir profissionalmente e a construir uma carreira sólida como desenvolvedor e contribuir de forma ativa na criação de projetos e sistemas.  
 # Minhas Redes #  
-<a href="https://www.instagram.com/luizottavio__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizotavio2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/luizotavio21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
